@@ -4,7 +4,7 @@
 
 
 
-## About me   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50"> 
+## About me <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50"> 
 
 ```javascript
 const Minox = {
@@ -16,11 +16,14 @@ const Minox = {
 }
 ```
 
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
+<br><br>
 
  <img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Theminox&&show_icons=true&title_color=ffffff&icon_color=00A6FF&text_color=daf7dc&bg_color=151515" >
