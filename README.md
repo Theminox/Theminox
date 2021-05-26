@@ -1,6 +1,8 @@
-<h2> Hi, I'm Minox <img src="https://media.giphy.com/media/a6pzK009rlCak/giphy.gif" width="50"></h2>
+<h1> Hi, I'm Minox <img src="https://media.giphy.com/media/a6pzK009rlCak/giphy.gif" width="50"></h1>
+<p> I am a software engineering student interested in software development on different platforms, I have different knowledge in computer security and I am a supporter of hacktivism... And remember knowledge is free</p><img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="80">
+<br><br>
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MinoxRx?style=social">
+
 
 ## About me   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50"> 
 
@@ -8,7 +10,7 @@
 const Minox = {
   pronouns: "he" | "his",
   code: [Javascript, HTML, CSS, Python, Java, Sql],
-  tools: [React, Node, Docker, Git, Selenium, Nmap,  ],
+  tools: [React, Node, Docker, Git, Selenium, Nmap],
 
  challenge: "I am trying not to die"
 }
