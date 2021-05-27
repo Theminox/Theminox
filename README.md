@@ -12,7 +12,7 @@ const Minox = {
   code: [Javascript, HTML, CSS, Python, Java, Sql],
   tools: [React, Node, Docker, Git, Selenium, Nmap],
 
- challenge: "I am trying not to die"
+ challenge: "learn new programming languages"
 }
 ```
 
