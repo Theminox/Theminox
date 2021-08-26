@@ -1,5 +1,5 @@
 <h1> Hi, I'm Minox <img src="https://media.giphy.com/media/a6pzK009rlCak/giphy.gif" width="50"></h1>
-<p> I am a software engineering student interested in software development on different platforms, I have knowledge in computer security and I am a supporter of hacktivism... And remember knowledge is free.</p><img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="80">
+<p> I am a software engineering student interested in software development on different platforms, I have knowledge in computer security and I am a supporter of hacktivism. And remember knowledge is free. #OpColombia</p><img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="80">
 <br><br>
 
 
