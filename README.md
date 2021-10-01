@@ -10,6 +10,7 @@
 
 <h3>Abaout me</h3> 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50"> 
+
 ```javascript
 const Minox = {
   pronouns: "he" | "his",
