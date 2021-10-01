@@ -3,7 +3,7 @@
 <br><br>
 
 <h3>senior in procrastination </h3> 
-<img src="https://i.pinimg.com/originals/dc/39/c8/dc39c82530fe178d765cfc08fb906e3b.gif" width="90">
+<img src="https://i.pinimg.com/originals/dc/39/c8/dc39c82530fe178d765cfc08fb906e3b.gif" width="100">
 
 <br> <br> <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50"> 
 
