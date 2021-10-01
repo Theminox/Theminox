@@ -3,8 +3,7 @@
 <br><br>
 
 
-
-## About me <br> <br> <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50"> 
+<br> <br> <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50"> 
 
 ```javascript
 const Minox = {
