@@ -5,10 +5,11 @@
 <h2>senior in procrastination </h2> 
 <img src="https://i.pinimg.com/originals/dc/39/c8/dc39c82530fe178d765cfc08fb906e3b.gif" width="200">
 
-<br> <br> <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50"> 
 
 
-<h3>Abaout me</h3>
+
+<h3>Abaout me</h3> <br> <br>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50"> 
 ```javascript
 const Minox = {
   pronouns: "he" | "his",
