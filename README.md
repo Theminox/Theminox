@@ -2,7 +2,7 @@
 <p> I am a software engineering student interested in software development on different platforms, I have knowledge in computer security and I am a supporter of hacktivism. And remember knowledge is free.</p><img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="80">
 <br><br>
 
-<h2>senior in procrastination </h2> 
+<h3>senior in procrastination </h3> 
 <img src="https://i.pinimg.com/originals/dc/39/c8/dc39c82530fe178d765cfc08fb906e3b.gif" width="200">
 
 
