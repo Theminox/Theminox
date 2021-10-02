@@ -3,7 +3,7 @@
 <br>
 
 <h3>senior in procrastination </h3> 
-<img src="https://i.pinimg.com/originals/dc/39/c8/dc39c82530fe178d765cfc08fb906e3b.gif" width="200">
+<img src="https://i.pinimg.com/originals/dc/39/c8/dc39c82530fe178d765cfc08fb906e3b.gif" width="200"><br>
 
 
 
@@ -20,7 +20,7 @@ const Minox = {
  challenge: "learn new programming languages"
 }
 ```
-
+<br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
